@@ -1,3 +1,14 @@
+html {
+
+}
+
+body {
+  background-image: url(../img/atlantis.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-color: #45ACBA;
+}
 header {
   display: block;
   margin-left: auto;
@@ -15,9 +26,18 @@ p{
 
 }
 
-
+ul {
+  background-color: #D6F5F3;
+}
 li{
   font-weight: bold;
-
-
+}
+a {
+  color: black;
+}
+a:hover {
+  color: white;
+}
+a:visited {
+  color: blue;
 }
