@@ -1,0 +1,26 @@
+
+body{
+  background-color: #F5CAF3;
+}
+
+
+
+h1{
+  text-align: center;
+  font-size: 35px;
+  font-family: cursive;
+
+}
+
+p{
+  text-align: center;
+  font-family: fantasy;
+  font-size: 29px;
+
+}
+
+ul{
+  display:block;
+  margin-left: 45%;
+
+}
